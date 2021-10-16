@@ -9,5 +9,6 @@ Rails.application.routes.draw do
   get '/artists/:artist_id/songs', to: 'artist_songs#index'
   post '/artists/', to: 'artists#create'
   patch '/artists/:id/', to: 'artists#update'
+  delete '/artists/:id/', to: 'artists#destroy'
 
 end
