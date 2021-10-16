@@ -246,12 +246,48 @@
           1,
           null,
           1,
+          1,
+          1,
+          1,
           null
         ]
       },
       "/Users/nathanbrown/turing/2module/set_list/app/helpers/application_helper.rb": {
         "lines": [
           1,
+          null
+        ]
+      },
+      "/Users/nathanbrown/turing/2module/set_list/spec/features/artists/songs/index_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          3,
+          3,
+          3,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          1,
+          null,
           null
         ]
       },
@@ -369,12 +405,21 @@
           null
         ]
       },
-      "/Users/nathanbrown/turing/2module/set_list/app/controllers/artist_songs_controller.rb": {
+      "/Users/nathanbrown/turing/2module/set_list/app/controllers/artists_controller.rb": {
         "lines": [
           1,
+          null,
           1,
-          3,
-          3,
+          2,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
           null,
           null
         ]
@@ -382,6 +427,16 @@
       "/Users/nathanbrown/turing/2module/set_list/app/controllers/application_controller.rb": {
         "lines": [
           1,
+          null
+        ]
+      },
+      "/Users/nathanbrown/turing/2module/set_list/app/controllers/artist_songs_controller.rb": {
+        "lines": [
+          1,
+          1,
+          3,
+          3,
+          null,
           null
         ]
       },
@@ -399,6 +454,6 @@
         ]
       }
     },
-    "timestamp": 1634334596
+    "timestamp": 1634413752
   }
 }

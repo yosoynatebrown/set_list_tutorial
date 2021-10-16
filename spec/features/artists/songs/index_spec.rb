@@ -6,7 +6,7 @@ RSpec.describe 'Artists songs index' do
     @purple = @prince.songs.create!(title: 'Purple Rain', length: 845, play_count: 8799)
     @beret = @prince.songs.create!(title: 'Raspberry Beret', length: 8567, play_count: 90000)
   end
-  it 'shows all of the title of songs for artist' do
+  it 'shows all of the titles of songs for artist' do
     visit "/artists/#{@prince.id}/songs"
 
     expect(page).to have_content(@purple.title)
